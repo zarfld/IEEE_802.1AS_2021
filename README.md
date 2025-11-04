@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IEEE 802.1AS-2021 Implementation
 
 ## Overview
@@ -228,3 +229,7 @@ This implementation follows OpenAvnu project licensing and IEEE standards compli
 ## Contact
 
 Part of the OpenAvnu project - see main project documentation for contact information.
+=======
+# IEEE_802.1AS_2021
+IEEE 802.1AS-2021 Generalized Precision Time Protocol (gPTP) Implementation - Standards-compliant pure protocol implementation
+>>>>>>> 57e829849bd2c2c3241ceffc5bc924d5e58ba2b5
