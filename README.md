@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IEEE Std 802.1AS-2021 - Timing and Synchronization for Time-Sensitive Applications
 
 This repository contains the implementation of **IEEE Std 802.1AS-2021 "Timing and Synchronization for Time-Sensitive Applications in Bridged Local Area Networks"** as part of the libmedia-network-standards ecosystem.
